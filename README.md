@@ -1,4 +1,4 @@
-# CSMC122 Personal Website
+# CMSC122 Personal Website
 
 Check it out here- [tralka.xyz](https://tralka.xyz)
 
